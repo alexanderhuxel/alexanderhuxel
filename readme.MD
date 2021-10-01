@@ -23,7 +23,7 @@ class DEVELOPER {
 const Alex = new DEVELOPER(
 
   'Alex' ,
-  '27' , 
+  27 , 
   [Javascript, Typescript, HTML, CSS, SASS, Scss, PHP, Blade],
   [Angular , Wordpress]
                           )
