@@ -2,7 +2,7 @@
 <img align='right'  src="https://alexhuxel.de/assets/img/about.jpg" width="230">
 <p>
 <em>
-Junior Frontend Developer at <a href="https://alpha-alpaka.de/">alpha alpaka UX GmbH</a> 
+Junior Frontend Developer
 </em>
 </p>
 
